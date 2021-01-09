@@ -1,2 +1,2 @@
 # solutions
-Solutions to mini projects
+Project: Predicting Car Prices
