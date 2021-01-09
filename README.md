@@ -1,2 +1,2 @@
-# solutions
+# Contents
 Project: Predicting Car Prices
