@@ -3,3 +3,4 @@ This repository is a series of Jupyter Notebooks containing solutions to mini pr
 
 Project: Predicting Car Prices
 Project: Visualizing Gender Gaps
+Project: Handwritten Digit Classifier
