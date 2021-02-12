@@ -1,8 +1,13 @@
 # Contents
+
 This repository is a series of Jupyter Notebooks containing solutions to mini projects
 
-Project: Predicting Car Prices
+Projects:
 
-Project: Visualizing Gender Gaps
+    Predicting Car Prices
 
-Project: Handwritten Digit Classifier
+    Visualizing Gender Gaps
+
+    Handwritten Digit Classifier
+    
+    Sharpe Ratio
